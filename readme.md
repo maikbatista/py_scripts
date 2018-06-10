@@ -1,4 +1,7 @@
-#### List all DHCP leases.
+### Phyton Scripts.
 
 
-Lease file '/var/lib/dhcp/dhcpd.leases'
+##### Show all dhcp leases. 
+
+
+Lease file '/var/lib/dhcp/dhcpd.leases'. From [askubuntu.com](https://askubuntu.com/questions/219609/how-do-i-show-active-dhcp-leases) 
