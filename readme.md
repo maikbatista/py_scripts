@@ -1,4 +1,4 @@
-### Phyton Scripts.
+### Python Scripts.
 
 
 ##### Show all dhcp leases. 
